@@ -1,0 +1,50 @@
+.curve{
+    height: 30vh;
+}
+
+.homehead h1{
+    line-height: normal;
+    font-size: 9rem;
+}
+
+.homehead h2{
+    font-size: 2.5rem;
+}
+
+.homeimg img {
+    width: 100%;
+    transform: translateY(-6.5rem);
+}
+
+.HomePage{
+    height: 32rem !important;
+}
+
+.browse{
+    width: 50rem;
+}
+
+.browse p{
+    line-height: normal;
+    font-size: 5.4rem;
+}
+
+.items{
+    width: 80vw;
+}
+
+.items__bg{
+    margin: 0px 0.5rem;
+}
+
+.card__image{
+    width: auto;
+}
+
+.card__content{
+    padding: 35px;
+}
+
+.card__content img{
+    width: 30rem;
+}
